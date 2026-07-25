@@ -1,13 +1,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Yifei Liu
+title: Guowei Song
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  Guowei Song | Agricultural and Development Economics
 baseurl: "" # the subpath of the site
-url: "https://yifei-liu-yl.github.io" # the base hostname & protocol for the site
+url: "https://song-guowei.github.io" # the base hostname & protocol for the site
 twitter_username: 
-github_username: yifei-liu-yl
+github_username: song-guowei
 favicon: "/favicon.ico"
 
 # Build settings
@@ -20,41 +20,27 @@ header:
     - name: Home
       slug: /
     - name: Research
-    - name: Teaching
-      slug: /teaching
+      slug: /research
     - name: CV
-    - name: Data
-      slug: /data
+      slug: /cv
+    - name: Beyond
+      slug: /beyond
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yifei.violet.liu@wisc.edu
-      link: mailto:yifei.violet.liu@wisc.edu
-    # - name: WeChat
-    #   value: YourWeChatUsername
-      link: "#"
+      value: gwsong2026@gmail.com
+      link: mailto:gwsong2026@gmail.com
     - name: Address
-      value: Taylor Hall, 427 Lorch Street, Madison, WI 53706
+      value: Beijing, China
   follow:
-    # - name: Twitter
-    #   link: http://twitter.com/YourTwitterUsername
-    #   username: "@YourTwitterUsername"
-    # - name: Facebook
-    #   link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
-      link: https://www.linkedin.com/in/yifei-liu-a56b67135/
+      link: https://www.linkedin.com/in/your-linkedin-username
     - name: GitHub
-      link: https://github.com/yifei-liu-yl
-    # - name: Dribbble
-    #   link: https://dribbble.com/YourDribbbleUsername
-    # - name: RSS
-    #   link: /feed.xml
-    - name: Orcid
-      link: https://orcid.org/0000-0002-0103-2464
+      link: https://github.com/song-guowei
     - name: Scholar
-      link: https://scholar.google.com/citations?hl=en&authuser=1&user=HXurJnUAAAAJ
+      link: https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID
 
 # Build settings
 markdown: kramdown
