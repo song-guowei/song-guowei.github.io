@@ -6,7 +6,6 @@ profile_picture:
 ---
 
 
-# Guowei Song
 
 I am a M.Ag. student in Rural Development at the Chinese Academy of Agricultural Sciences (CAAS), where I study agricultural and development economics with a focus on institutional arrangements, resource management, and climate adaptation in rural China.
 
