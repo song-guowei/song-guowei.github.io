@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <style>
+
+      .page-content {
+        font-size: 16px; /* Adjust to 16px–22px as needed */
+        line-height: 1.6;
+      }
+      
+      .page-content p {
+        margin-bottom: 1.5em;
+      }
+
+      .wrapper {
+        max-width: 800px;
+        width: 90%;
+        margin: 0 auto;
+      }
+    </style>
+    
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="home-container">
+            <img
+              src="{{ page.profile_picture.src | absolute_url }}"
+              alt="{{ page.profile_picture.alt }}"
+              class="profile-pic"
+              style="width: 250px; height: auto;"
+            />
+
+            <div class="text_content">
+              {{ content }}
+            </div>
+            
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include foot.html %}
+  </body>
+</html>
