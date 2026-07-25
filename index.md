@@ -5,11 +5,6 @@ profile_picture:
   alt: website picture
 ---
 
----
-layout: default
-title: Home
-permalink: /
----
 
 # Guowei Song
 
