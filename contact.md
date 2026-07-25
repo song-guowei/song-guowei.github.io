@@ -1,25 +1,21 @@
 ---
-layout: work
+layout: page
 title: Contact
-slug: /contact
+permalink: /contact/
 ---
 
 ### Contact Me:
 
-<img src="assets/img/icons/email.png" width="25"> [Email: yifei.violet.liu@wisc.edu](mailto:yifei.violet.liu@wisc.edu)
+📧 [gwsong2026@gmail.com](mailto:gwsong2026@gmail.com)
 
-<img src="assets/img/icons/address.png" width="25"> Address: 519 Taylor Hall, 427 Lorch St. Madison, WI 53706
+📍 Beijing, China
 
 <br>
 
 ### Connect with Me:
 
-<img src="assets/img/icons/scholar.png" width="25"> [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=HXurJnUAAAAJ)
+🔗 [GitHub](https://github.com/song-guowei)
 
-<img src="assets/img/icons/orcid.png" width="25"> [ORCID](https://orcid.org/0000-0002-0103-2464)
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
 
-<img src="assets/img/icons/linkedin.png" width="25"> [LinkedIn](https://www.linkedin.com/in/yifei-liu-a56b67135/)
-
-<img src="assets/img/icons/github.png" width="25"> [GitHub](https://github.com/yifei-liu-yl)
-
-
+🔗 [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
