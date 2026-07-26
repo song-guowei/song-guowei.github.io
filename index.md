@@ -6,23 +6,19 @@ profile_picture:
 ---
 
 <p align="justify">
-I am a M.Ag. student in Rural Development at the Chinese Academy of Agricultural Sciences (CAAS), where I study agricultural and development economics with a focus on institutional arrangements, resource management, and climate adaptation in rural China.
+I am a M.Ag. student in Rural Development at the Chinese Academy of Agricultural Sciences (CAAS), where I study agricultural and development economics with a focus on climate change, environmental policy, and rural adaptation in China.
 </p>
 
 <p align="justify">
-My research lies at the intersection of agricultural economics, environmental economics, and applied microeconomics. I am especially interested in how governance structures—from collective action to market mechanisms—shape the management of common-pool resources such as irrigation systems, and how policy interventions and environmental shocks influence farmer behavior, land use decisions, and rural welfare.
+My research lies at the intersection of climate change economics, environmental economics, and applied microeconomics. I am especially interested in how climate risks and environmental regulations shape agricultural production, farmer behavior, and rural welfare, as well as how institutional and policy interventions can facilitate adaptation and mitigate adverse impacts.
 </p>
 
 <p align="justify">
-Methodologically, I am drawn to rigorous empirical research design, causal inference, and policy evaluation. I combine quasi-experimental methods (difference-in-differences, instrumental variables, event study) with rich micro-level household and village panel data to identify economically meaningful mechanisms. I believe that credible identification, grounded in field knowledge, is essential for generating policy-relevant evidence.
+Methodologically, I am drawn to rigorous empirical research design and causal inference. My work combines quasi-experimental methods (difference-in-differences, event study, and regression discontinuity) with emerging data-driven approaches such as double machine learning, which I apply to high-dimensional household and village panel data. I also integrate satellite-derived remote sensing data—including land use, vegetation indices, and climate variables—to enrich my empirical analyses and capture spatially varying treatment effects. I believe that credible identification, grounded in field knowledge, is essential for generating policy-relevant evidence.
 </p>
 
 <p align="justify">
-My current work examines three interconnected questions: (1) How do different governance models affect the sustainability of irrigation infrastructure? (2) How do land market reforms shape cultivated land quality and farm productivity? (3) How do climate risks influence cropland abandonment and adaptation strategies?
-</p>
-
-<p align="justify">
-My research has been published in the *Journal of Environmental Management* and the *Journal of China Agricultural Resources and Regional Planning*, and I have presented my work at the IAAE Triennial Conference, the AAEA Annual Meeting, and other international conferences.
+My current work examines three interconnected questions: (1) How do climate shocks affect agricultural productivity and land use decisions? (2) How do environmental regulations and market-based instruments influence farmers' production behavior and welfare? (3) How can institutional design and policy interventions enhance climate adaptation and mitigation in rural China?
 </p>
 
 <p align="justify">
