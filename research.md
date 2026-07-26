@@ -33,7 +33,13 @@ permalink: /research/
 ## Selected Work in Progress
 
 - **Digital technologies and collective action in irrigation governance**  
-  This project examines how digital technologies—such as smart water metering and mobile-based monitoring—reshape collective action dynamics among water users. Preliminary evidence suggests that digitization may enhance monitoring efficiency but could also weaken social capital if not properly designed.
+  <details>
+    <summary>Summary</summary>
+    This project examines how digital technologies—such as smart water metering and mobile-based monitoring—reshape collective action dynamics among water users. Preliminary evidence suggests that digitization may enhance monitoring efficiency but could also weaken social capital if not properly designed.
+  </details>
 
 - **Climate risk, institutional design, and common-pool resource management**  
-  This project investigates the interaction between climate risk and institutional design: do weather shocks strengthen or weaken collective governance? I am exploring this question using a combination of long-term panel data and historical weather records.
+  <details>
+    <summary>Summary</summary>
+    This project investigates the interaction between climate risk and institutional design: do weather shocks strengthen or weaken collective governance? I am exploring this question using a combination of long-term panel data and historical weather records.
+  </details>
