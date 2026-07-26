@@ -26,5 +26,6 @@ Beyond research, I enjoy coordinating complex projects, building collaborations,
 </p>
 
 <p align="justify">
-Outside academia, I am a football enthusiast. I enjoy the competition, the time with friends, and the joy of movement.
+Outside academia, I'm an amateur soccer player. I enjoy the matches, the time with friends, and the joy of being active on the pitch.
+  
 </p>
